@@ -1,0 +1,37 @@
+PROJECT PROPOSAL
+WellCare Clinic Management System
+Field: 3 – Health & Wellness
+
+BACKGROUND OF THE STUDY
+Clinic appointment requests and patient consultation information can be difficult to coordinate when handled through separate paper records, phone calls, or manual lists. These processes may cause scheduling conflicts, delays in locating information, and additional administrative work. The WellCare Clinic Management System is proposed as a centralized web application for basic appointment coordination and organized consultation records.
+
+GENERAL OBJECTIVE
+To develop a web-based clinic management system that supports appointment booking, doctor schedule coordination, and organized patient consultation records.
+
+SPECIFIC OBJECTIVES
+1. Allow patients to create accounts and request clinic appointments online.
+2. Allow doctors to view their assigned appointments and update appointment status.
+3. Allow authorized doctors and administrators to record consultation details.
+4. Allow administrators to manage doctor accounts.
+5. Present appointment and record summaries through a dashboard.
+6. Provide a responsive interface accessible on desktop and mobile devices.
+
+SYSTEM FEATURES
+- Patient registration and login
+- Role-based access for patients, doctors, and administrators
+- Appointment booking and cancellation
+- Appointment status management
+- Doctor directory and account creation
+- Medical record entry and viewing by authorized staff
+- Dashboard summary statistics
+
+TOOLS AND TECHNOLOGIES
+Frontend: HTML5, CSS3, JavaScript
+Backend: PHP
+Database: MySQL / MariaDB
+Local server: XAMPP
+Code editor: Visual Studio Code
+Version control (recommended): Git and GitHub
+
+SCOPE AND LIMITATIONS
+The prototype demonstrates basic clinic workflow and is intended for academic use. It does not provide emergency services, diagnostic decision-making, pharmacy inventory, billing, laboratory integration, or a full doctor shift/availability calendar. Medical record access is restricted to doctor/admin roles in this prototype. It must not be used to store real patient data without a formal security, privacy, and legal review.
